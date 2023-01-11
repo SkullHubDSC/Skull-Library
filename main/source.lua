@@ -4,7 +4,7 @@ local TS = game:GetService("TweenService")
 local UIS = game:GetService("UserInputService")
 local mouse = game.Players.LocalPlayer:GetMouse()
 
-function Library:Create(hubname, gamename, presetColor)
+function Library:Create(hubname, presetColor)
 
 	
 	local SkullLib = Instance.new("ScreenGui")
